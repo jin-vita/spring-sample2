@@ -1,0 +1,8 @@
+spring:
+  application:
+  name: SpringSample2
+  datasource:
+  driverClassName: org.mariadb.jdbc.Driver
+  url: jdbc:mariadb://localhost:3306/test
+  username: root
+  password: admin
